@@ -12,7 +12,7 @@ set SERVER_PORT=5520
 
 echo.
 echo  ========================================
-echo   Hytale Server - JPtale (Optimized)
+echo   Hytale Server (Optimized)
 echo  ========================================
 echo.
 
